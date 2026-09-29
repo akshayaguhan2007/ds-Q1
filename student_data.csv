@@ -1,0 +1,501 @@
+Student_ID,Attendance,Internal_Marks,Assignment_Submissions,Learning_Platform_Activity,Previous_Performance,Course,Declining_Engagement,Performance_Status
+S0001,82.6,68.7,66.9,66.4,84.6,Engineering,0,Good
+S0002,47.8,40.0,39.8,49.9,65.3,Arts,0,At Risk
+S0003,70.3,52.7,40.7,55.4,75.2,Business,0,Average
+S0004,69.1,52.4,54.3,44.7,60.3,Arts,0,Average
+S0005,65.8,52.8,57.3,47.0,69.9,Arts,0,Average
+S0006,72.2,55.4,53.4,38.5,63.0,Computer Science,1,Average
+S0007,58.1,54.5,53.5,57.0,66.5,Business,0,Average
+S0008,81.1,68.1,69.4,69.0,73.9,Business,0,Good
+S0009,79.4,54.3,65.4,63.2,52.7,Business,0,Average
+S0010,74.6,74.8,58.2,74.2,96.4,Arts,0,Good
+S0011,50.5,45.6,52.0,50.9,49.9,Engineering,0,At Risk
+S0012,67.9,33.3,65.2,65.6,46.8,Business,0,Average
+S0013,87.0,61.5,61.3,42.5,82.4,Arts,0,Good
+S0014,63.2,58.6,72.0,56.4,76.9,Computer Science,0,Average
+S0015,63.0,49.0,56.8,61.7,74.4,Engineering,0,Average
+S0016,64.4,63.9,58.8,64.6,74.4,Computer Science,0,Average
+S0017,49.0,62.9,56.5,49.7,64.8,Engineering,0,Average
+S0018,46.6,54.3,50.3,49.3,51.5,Arts,0,Average
+S0019,53.0,50.7,61.3,37.5,66.1,Mathematics,1,Average
+S0020,49.7,58.8,52.7,47.1,54.8,Engineering,0,Average
+S0021,69.5,63.9,55.6,63.5,79.6,Computer Science,0,Good
+S0022,63.7,51.5,61.9,62.8,62.8,Arts,0,Average
+S0023,71.8,47.7,51.7,56.8,52.6,Engineering,0,Average
+S0024,50.1,46.7,51.1,51.2,60.2,Mathematics,0,Average
+S0025,75.4,58.0,64.9,57.6,71.2,Mathematics,0,Average
+S0026,56.1,50.8,51.6,42.9,56.5,Business,0,Average
+S0027,55.8,49.1,52.2,59.5,52.7,Business,0,Average
+S0028,71.1,58.8,43.8,52.0,68.7,Computer Science,0,Average
+S0029,53.1,56.9,46.4,54.1,68.7,Engineering,0,Average
+S0030,62.5,61.2,58.4,47.9,57.4,Engineering,0,Average
+S0031,60.6,59.0,58.0,28.1,57.9,Business,0,Average
+S0032,69.2,46.3,51.2,63.8,68.5,Engineering,0,Average
+S0033,54.5,23.2,65.4,51.9,43.3,Engineering,0,At Risk
+S0034,76.5,58.0,57.2,43.3,43.9,Mathematics,0,Average
+S0035,50.7,36.0,60.1,63.4,54.2,Business,0,Average
+S0036,55.6,49.6,57.6,49.1,61.8,Arts,0,Average
+S0037,58.6,46.1,48.7,62.1,69.7,Business,0,Average
+S0038,68.0,50.8,78.6,71.7,87.1,Arts,0,Good
+S0039,62.6,64.2,45.6,56.0,77.9,Mathematics,0,Average
+S0040,73.2,63.1,73.1,45.2,62.6,Computer Science,0,Average
+S0041,76.6,54.2,75.9,77.5,64.7,Engineering,0,Good
+S0042,49.3,24.0,42.9,49.6,50.0,Mathematics,0,At Risk
+S0043,54.0,47.7,66.3,53.7,64.7,Engineering,0,Average
+S0044,65.0,56.9,56.5,55.0,60.7,Computer Science,0,Average
+S0045,59.4,43.9,58.5,32.9,69.8,Computer Science,1,Average
+S0046,62.6,51.3,60.2,60.0,52.6,Mathematics,0,Average
+S0047,68.4,59.5,59.7,42.5,72.8,Computer Science,0,Average
+S0048,58.8,67.5,63.4,40.5,88.0,Arts,0,Average
+S0049,77.2,59.5,74.2,43.8,63.4,Computer Science,0,Average
+S0050,83.5,55.7,52.6,64.7,71.0,Engineering,0,Average
+S0051,61.5,68.2,70.0,52.4,75.4,Engineering,0,Good
+S0052,55.6,49.0,36.7,61.8,59.0,Engineering,0,Average
+S0053,67.0,57.2,70.5,53.8,68.4,Engineering,0,Average
+S0054,65.9,48.4,70.8,39.9,65.2,Arts,1,Average
+S0055,69.8,54.0,51.0,37.1,66.5,Business,1,Average
+S0056,76.8,47.3,62.0,70.8,53.4,Mathematics,0,Average
+S0057,60.9,53.0,45.5,45.9,65.4,Engineering,0,Average
+S0058,58.3,70.2,52.8,44.8,72.5,Computer Science,0,Average
+S0059,59.6,51.6,52.7,53.3,86.8,Engineering,0,Average
+S0060,62.4,47.6,65.2,63.6,79.4,Computer Science,0,Average
+S0061,78.3,84.2,80.1,78.5,97.3,Computer Science,0,Excellent
+S0062,74.7,52.1,78.8,81.8,53.5,Engineering,0,Good
+S0063,63.9,55.0,52.7,47.0,78.1,Arts,0,Average
+S0064,66.1,65.3,57.6,37.9,67.8,Computer Science,1,Average
+S0065,78.8,67.9,50.4,45.2,97.8,Computer Science,0,Good
+S0066,68.3,66.3,52.9,54.6,52.9,Engineering,0,Average
+S0067,81.5,60.8,78.5,52.7,52.4,Computer Science,0,Good
+S0068,52.7,44.3,67.8,47.4,56.0,Computer Science,0,Average
+S0069,41.7,53.0,32.7,45.5,33.1,Engineering,0,At Risk
+S0070,69.0,48.7,55.5,52.2,57.1,Engineering,0,Average
+S0071,63.6,56.5,57.9,54.3,53.6,Mathematics,0,Average
+S0072,82.1,63.9,72.1,51.9,67.3,Arts,0,Good
+S0073,70.9,69.7,54.4,49.5,70.1,Arts,0,Average
+S0074,73.0,81.6,68.0,47.9,93.1,Computer Science,0,Good
+S0075,75.5,64.6,60.6,66.0,79.3,Arts,0,Good
+S0076,69.3,47.3,61.4,68.1,56.3,Computer Science,0,Average
+S0077,64.0,53.5,63.8,34.8,51.5,Mathematics,0,Average
+S0078,71.3,54.9,62.8,45.3,72.4,Engineering,0,Average
+S0079,63.3,63.2,53.6,33.8,45.2,Engineering,0,Average
+S0080,87.9,74.5,71.7,53.0,92.5,Engineering,0,Good
+S0081,85.2,65.7,70.2,59.1,82.7,Arts,0,Good
+S0082,65.5,54.3,55.6,35.4,58.0,Mathematics,0,Average
+S0083,48.0,29.3,46.2,37.0,39.3,Arts,0,At Risk
+S0084,74.1,58.6,80.5,53.2,85.3,Arts,0,Good
+S0085,73.7,67.0,69.8,62.4,63.3,Mathematics,0,Good
+S0086,63.6,57.3,55.2,53.4,83.6,Mathematics,0,Average
+S0087,54.2,34.3,59.5,46.1,41.1,Mathematics,0,At Risk
+S0088,54.1,52.9,49.1,51.7,56.0,Mathematics,0,Average
+S0089,62.8,64.4,69.4,53.2,65.1,Engineering,0,Average
+S0090,75.6,64.7,69.1,56.3,65.7,Business,0,Good
+S0091,61.0,59.6,55.5,72.9,58.2,Business,0,Average
+S0092,67.6,54.0,65.1,73.6,74.3,Mathematics,0,Average
+S0093,40.9,30.5,28.8,23.8,49.0,Business,0,At Risk
+S0094,68.9,67.8,50.1,60.0,62.9,Business,0,Average
+S0095,69.9,55.1,50.0,59.7,66.8,Mathematics,0,Average
+S0096,88.0,63.5,74.2,48.3,72.7,Business,0,Good
+S0097,64.8,70.3,76.2,72.9,75.7,Arts,0,Good
+S0098,56.3,50.6,76.1,81.5,48.1,Computer Science,0,Average
+S0099,53.5,46.5,58.5,40.8,42.0,Computer Science,0,At Risk
+S0100,87.9,87.3,77.7,52.9,84.2,Mathematics,0,Excellent
+S0101,64.0,52.1,40.4,57.4,70.0,Engineering,0,Average
+S0102,59.7,56.8,50.4,53.4,53.8,Mathematics,0,Average
+S0103,80.2,69.8,60.2,61.7,88.3,Engineering,0,Good
+S0104,65.2,58.4,52.9,55.6,66.7,Computer Science,0,Average
+S0105,66.9,75.4,58.4,58.9,82.7,Mathematics,0,Good
+S0106,64.9,60.0,54.2,36.2,66.0,Arts,1,Average
+S0107,88.7,79.3,53.4,64.3,95.9,Business,0,Good
+S0108,65.4,74.7,66.7,72.4,91.3,Engineering,0,Good
+S0109,62.0,50.2,46.5,45.5,61.3,Business,0,Average
+S0110,62.8,54.0,60.1,54.5,79.6,Business,0,Average
+S0111,79.3,55.3,88.3,50.8,74.7,Mathematics,0,Good
+S0112,57.5,45.7,45.3,53.8,85.5,Business,0,Average
+S0113,49.7,61.6,24.5,44.1,50.5,Arts,0,At Risk
+S0114,71.4,52.7,60.0,54.2,75.3,Business,0,Average
+S0115,86.1,66.4,82.7,79.8,80.9,Mathematics,0,Good
+S0116,48.7,37.8,68.8,55.4,38.6,Arts,0,At Risk
+S0117,48.1,45.8,36.5,50.0,47.3,Computer Science,0,At Risk
+S0118,66.0,50.1,64.6,45.1,34.4,Business,0,Average
+S0119,46.0,55.1,42.9,46.2,61.0,Mathematics,0,At Risk
+S0120,45.9,49.4,46.5,46.1,75.8,Computer Science,0,Average
+S0121,78.2,67.1,93.3,74.4,87.5,Computer Science,0,Good
+S0122,58.0,56.1,39.8,40.5,66.1,Engineering,0,Average
+S0123,64.5,63.1,61.2,54.0,89.4,Arts,0,Average
+S0124,59.2,58.3,60.2,65.0,44.3,Business,0,Average
+S0125,52.2,45.4,62.2,50.8,39.4,Mathematics,0,Average
+S0126,56.4,58.5,54.8,33.1,64.2,Engineering,1,Average
+S0127,52.6,59.4,54.6,73.3,70.8,Arts,0,Average
+S0128,71.0,66.5,58.7,70.9,64.5,Engineering,0,Good
+S0129,53.5,41.1,54.8,36.9,34.0,Arts,0,At Risk
+S0130,60.8,43.3,53.1,59.8,63.7,Arts,0,Average
+S0131,71.2,52.7,68.9,53.4,45.4,Business,0,Average
+S0132,56.8,51.9,50.4,53.4,75.0,Arts,0,Average
+S0133,50.0,49.0,53.8,55.4,70.5,Engineering,0,Average
+S0134,48.5,49.6,48.8,46.6,50.9,Arts,0,At Risk
+S0135,58.2,60.3,66.2,48.7,57.3,Business,0,Average
+S0136,57.0,46.9,53.7,43.6,49.1,Business,0,Average
+S0137,59.6,56.0,38.0,33.0,64.1,Engineering,1,Average
+S0138,73.2,77.3,76.5,53.3,79.3,Computer Science,0,Good
+S0139,42.6,44.8,36.5,42.4,50.2,Computer Science,0,At Risk
+S0140,80.7,84.1,61.9,47.4,72.6,Arts,0,Good
+S0141,57.7,54.7,48.7,57.5,57.0,Mathematics,0,Average
+S0142,67.7,37.5,74.4,80.0,53.1,Arts,0,Average
+S0143,65.1,60.9,37.7,36.9,63.4,Engineering,1,Average
+S0144,59.3,50.6,87.0,71.4,49.5,Engineering,0,Average
+S0145,64.0,62.2,69.0,65.5,56.7,Engineering,0,Average
+S0146,58.0,51.6,57.0,59.2,47.0,Engineering,0,Average
+S0147,83.7,71.8,69.6,60.7,94.5,Engineering,0,Good
+S0148,76.1,49.2,68.5,68.2,65.5,Business,0,Average
+S0149,59.2,47.9,60.7,61.2,54.5,Computer Science,0,Average
+S0150,71.2,51.8,69.2,44.7,68.2,Engineering,0,Average
+S0151,60.8,48.9,62.0,66.4,63.3,Mathematics,0,Average
+S0152,75.2,62.0,66.0,68.7,61.7,Mathematics,0,Good
+S0153,60.3,71.1,54.2,43.0,74.2,Mathematics,0,Average
+S0154,86.2,69.6,70.2,60.6,76.4,Mathematics,0,Good
+S0155,58.1,40.7,52.9,59.7,57.0,Business,0,Average
+S0156,43.9,49.3,57.7,51.3,56.4,Mathematics,0,Average
+S0157,61.7,62.4,63.0,69.4,60.9,Engineering,0,Average
+S0158,40.0,29.3,14.6,60.7,30.5,Arts,0,At Risk
+S0159,59.5,43.7,62.3,46.7,42.3,Mathematics,0,Average
+S0160,66.2,64.2,61.7,39.3,85.5,Business,1,Average
+S0161,70.4,60.7,62.0,59.7,89.7,Business,0,Good
+S0162,41.7,52.2,41.2,54.2,61.3,Mathematics,0,At Risk
+S0163,62.3,57.2,68.6,56.5,73.6,Arts,0,Average
+S0164,40.6,53.4,53.8,69.4,69.7,Mathematics,0,Average
+S0165,64.2,62.1,50.8,34.3,100.0,Business,1,Average
+S0166,78.5,62.8,71.2,68.9,81.8,Computer Science,0,Good
+S0167,69.4,61.8,51.9,43.7,63.1,Engineering,0,Average
+S0168,59.6,45.2,42.0,66.6,50.7,Business,0,Average
+S0169,40.8,52.4,38.2,68.0,40.9,Mathematics,0,At Risk
+S0170,63.5,53.1,66.8,49.2,68.1,Engineering,0,Average
+S0171,56.8,50.3,63.6,50.2,53.7,Mathematics,0,Average
+S0172,40.2,47.0,49.3,60.0,43.7,Mathematics,0,At Risk
+S0173,72.7,42.6,70.9,55.8,55.3,Computer Science,0,Average
+S0174,63.2,34.4,63.1,56.0,48.8,Engineering,0,Average
+S0175,72.9,55.8,57.4,54.0,90.3,Engineering,0,Average
+S0176,69.4,72.2,65.9,34.9,78.2,Computer Science,1,Good
+S0177,64.5,50.9,66.7,58.2,64.9,Business,0,Average
+S0178,53.2,81.3,59.5,46.4,87.2,Mathematics,0,Good
+S0179,60.6,50.1,68.3,53.2,66.2,Arts,0,Average
+S0180,49.2,47.1,56.6,70.6,52.1,Mathematics,0,Average
+S0181,63.9,76.6,61.9,40.9,87.8,Mathematics,0,Good
+S0182,63.7,74.4,68.9,69.2,73.1,Business,0,Good
+S0183,72.7,68.1,63.4,53.3,49.4,Mathematics,0,Average
+S0184,67.5,64.8,51.7,47.5,62.1,Computer Science,0,Average
+S0185,50.2,54.0,48.5,58.7,51.9,Computer Science,0,Average
+S0186,57.9,49.8,47.3,52.7,44.3,Engineering,0,Average
+S0187,83.4,72.8,63.3,63.5,78.9,Arts,0,Good
+S0188,86.1,68.9,70.2,71.7,93.6,Mathematics,0,Good
+S0189,52.6,36.8,43.6,42.8,44.0,Mathematics,0,At Risk
+S0190,60.3,57.4,53.1,44.2,73.4,Business,0,Average
+S0191,64.6,50.1,39.8,31.9,55.2,Computer Science,0,At Risk
+S0192,62.8,48.3,59.8,45.0,57.7,Arts,0,Average
+S0193,67.0,58.1,60.2,90.5,56.1,Engineering,0,Good
+S0194,62.4,57.2,49.3,64.6,52.0,Computer Science,0,Average
+S0195,73.4,59.0,70.6,44.1,65.7,Engineering,0,Average
+S0196,50.9,58.1,59.9,39.1,52.5,Business,0,Average
+S0197,77.7,51.8,50.5,56.1,69.1,Business,0,Average
+S0198,64.1,53.4,50.8,57.0,64.2,Mathematics,0,Average
+S0199,81.5,53.3,61.2,62.2,61.4,Arts,0,Average
+S0200,48.8,30.3,39.9,41.9,51.4,Engineering,0,At Risk
+S0201,75.5,54.5,73.6,60.3,56.3,Computer Science,0,Average
+S0202,70.1,60.6,60.1,59.0,76.3,Business,0,Average
+S0203,59.7,69.0,53.2,52.6,72.5,Mathematics,0,Average
+S0204,50.3,50.3,30.2,13.4,50.3,Mathematics,0,At Risk
+S0205,60.0,46.4,62.4,53.4,66.5,Engineering,0,Average
+S0206,72.4,77.1,51.0,40.3,76.3,Business,0,Good
+S0207,55.2,52.3,53.7,54.0,40.0,Arts,0,Average
+S0208,60.8,62.2,59.3,90.5,73.2,Business,0,Good
+S0209,57.3,47.4,68.0,63.4,55.1,Engineering,0,Average
+S0210,88.2,58.2,59.8,51.2,73.6,Engineering,0,Good
+S0211,74.1,50.7,34.2,53.2,53.6,Business,0,Average
+S0212,53.3,49.9,53.8,57.7,37.9,Engineering,0,Average
+S0213,50.7,56.5,68.4,64.2,40.6,Business,0,Average
+S0214,64.1,67.9,70.8,67.7,65.7,Computer Science,0,Good
+S0215,70.6,54.8,64.4,81.9,68.9,Business,0,Good
+S0216,45.5,35.3,42.4,32.6,51.4,Business,0,At Risk
+S0217,64.7,60.4,66.9,64.1,74.6,Engineering,0,Average
+S0218,40.0,23.9,34.3,31.0,40.1,Engineering,0,At Risk
+S0219,66.0,58.0,64.4,63.8,64.0,Mathematics,0,Average
+S0220,59.9,45.5,61.0,44.5,46.8,Mathematics,0,Average
+S0221,52.8,44.2,62.3,51.1,55.2,Computer Science,0,Average
+S0222,78.6,47.1,94.8,68.8,65.7,Mathematics,0,Good
+S0223,43.8,48.1,50.2,61.8,52.1,Business,0,At Risk
+S0224,45.0,42.9,41.9,57.0,59.2,Engineering,0,At Risk
+S0225,72.3,54.4,63.1,41.6,80.1,Mathematics,0,Average
+S0226,68.6,30.2,43.5,47.4,56.3,Mathematics,0,At Risk
+S0227,85.6,66.5,64.4,48.7,77.5,Computer Science,0,Good
+S0228,49.4,58.2,45.6,32.7,48.1,Computer Science,0,At Risk
+S0229,77.3,75.6,61.1,53.0,72.9,Business,0,Good
+S0230,72.9,62.9,65.3,53.9,86.6,Engineering,0,Good
+S0231,43.3,30.2,37.7,73.0,30.0,Computer Science,0,At Risk
+S0232,65.4,54.6,70.4,65.4,53.0,Mathematics,0,Average
+S0233,73.4,53.5,64.0,40.5,73.7,Engineering,0,Average
+S0234,45.2,50.8,47.0,41.7,62.0,Engineering,0,At Risk
+S0235,80.0,68.4,64.8,69.6,70.6,Mathematics,0,Good
+S0236,71.8,63.7,64.6,82.4,55.9,Computer Science,0,Good
+S0237,56.9,52.8,62.4,37.2,66.3,Mathematics,1,Average
+S0238,65.3,53.0,50.5,27.7,62.7,Engineering,1,Average
+S0239,76.2,58.8,59.1,77.0,82.5,Arts,0,Good
+S0240,67.0,51.0,57.2,58.3,68.8,Arts,0,Average
+S0241,59.5,54.1,42.3,35.7,70.1,Business,1,Average
+S0242,52.7,52.3,43.4,53.1,58.8,Mathematics,0,Average
+S0243,58.6,58.0,50.4,18.6,57.7,Mathematics,0,Average
+S0244,71.0,48.3,71.3,60.7,58.5,Business,0,Average
+S0245,70.9,71.6,65.2,61.5,70.9,Business,0,Good
+S0246,55.6,48.0,55.3,63.8,58.7,Business,0,Average
+S0247,72.4,59.3,71.9,48.8,69.3,Engineering,0,Average
+S0248,49.6,57.3,48.4,50.2,96.1,Mathematics,0,Average
+S0249,80.5,46.0,72.2,50.0,78.1,Engineering,0,Average
+S0250,42.7,53.9,44.6,50.3,60.1,Business,0,At Risk
+S0251,67.9,69.5,63.4,45.9,83.0,Mathematics,0,Good
+S0252,48.2,45.8,43.1,41.7,58.9,Engineering,0,At Risk
+S0253,40.0,36.3,19.6,22.9,34.4,Engineering,0,At Risk
+S0254,66.5,54.0,58.6,62.1,49.9,Business,0,Average
+S0255,43.8,25.4,60.5,65.6,36.9,Mathematics,0,At Risk
+S0256,63.3,48.7,67.3,55.8,59.7,Business,0,Average
+S0257,62.2,61.1,67.0,58.9,65.3,Mathematics,0,Average
+S0258,79.8,60.0,80.3,47.8,90.1,Arts,0,Good
+S0259,65.7,60.0,60.3,51.6,69.9,Computer Science,0,Average
+S0260,48.0,38.2,50.8,49.8,61.7,Computer Science,0,At Risk
+S0261,78.7,68.3,61.0,87.0,77.4,Computer Science,0,Good
+S0262,41.0,34.7,41.4,32.4,31.8,Business,0,At Risk
+S0263,48.7,39.1,55.4,70.3,68.5,Arts,0,Average
+S0264,64.0,69.1,70.4,72.2,76.6,Mathematics,0,Good
+S0265,66.4,41.2,58.5,57.6,42.8,Engineering,0,Average
+S0266,79.6,60.3,63.2,77.7,82.2,Mathematics,0,Good
+S0267,61.6,58.1,56.9,57.9,70.1,Engineering,0,Average
+S0268,55.9,59.5,59.5,59.4,58.8,Mathematics,0,Average
+S0269,64.0,50.9,44.0,46.4,74.5,Arts,0,Average
+S0270,100.0,80.1,57.0,68.2,99.1,Engineering,0,Excellent
+S0271,67.7,60.8,55.1,65.7,67.7,Business,0,Average
+S0272,68.7,63.6,49.0,42.0,68.7,Mathematics,0,Average
+S0273,69.4,55.5,56.5,37.4,58.1,Mathematics,0,Average
+S0274,58.5,45.5,53.6,49.4,52.3,Engineering,0,Average
+S0275,66.1,54.2,55.1,43.0,77.5,Business,0,Average
+S0276,54.1,47.8,67.0,57.7,52.2,Business,0,Average
+S0277,62.3,46.5,60.7,70.2,66.1,Arts,0,Average
+S0278,58.5,27.3,58.1,48.6,57.8,Business,0,At Risk
+S0279,73.4,64.4,70.2,59.6,72.2,Business,0,Good
+S0280,65.5,64.9,47.9,49.7,70.0,Business,0,Average
+S0281,77.6,46.6,77.0,73.7,80.6,Computer Science,0,Good
+S0282,57.9,42.2,54.0,25.0,57.3,Arts,0,At Risk
+S0283,61.3,57.7,63.5,49.5,61.0,Mathematics,0,Average
+S0284,40.0,58.6,33.3,44.2,50.3,Engineering,0,At Risk
+S0285,68.3,54.0,45.5,62.1,58.3,Mathematics,0,Average
+S0286,68.8,53.1,69.5,53.8,70.7,Arts,0,Average
+S0287,78.2,62.5,70.7,37.8,76.4,Engineering,1,Good
+S0288,40.0,53.5,35.0,49.9,51.2,Arts,0,At Risk
+S0289,89.9,63.0,65.2,50.0,78.0,Business,0,Good
+S0290,71.3,59.1,74.0,47.7,85.3,Engineering,0,Good
+S0291,76.7,57.6,54.1,44.6,71.2,Business,0,Average
+S0292,66.2,59.5,76.1,60.9,93.2,Mathematics,0,Good
+S0293,62.8,51.2,48.7,42.1,53.4,Mathematics,0,Average
+S0294,42.6,54.3,52.0,24.5,46.3,Engineering,0,At Risk
+S0295,42.9,40.8,42.5,57.0,38.3,Engineering,0,At Risk
+S0296,92.9,70.8,81.7,81.2,87.4,Arts,0,Excellent
+S0297,65.5,57.2,53.9,59.7,74.8,Arts,0,Average
+S0298,64.3,42.4,56.9,39.8,64.2,Business,1,Average
+S0299,73.3,66.7,64.4,54.8,69.2,Engineering,0,Good
+S0300,59.0,46.3,45.4,47.6,48.1,Mathematics,0,At Risk
+S0301,81.5,73.0,76.3,70.3,100.0,Arts,0,Good
+S0302,67.1,82.5,55.1,60.6,66.9,Arts,0,Good
+S0303,87.4,65.3,70.1,51.3,66.6,Mathematics,0,Good
+S0304,67.4,54.6,50.5,51.2,75.9,Arts,0,Average
+S0305,68.1,55.9,35.2,48.1,72.2,Business,0,Average
+S0306,74.7,68.9,62.9,73.9,68.4,Engineering,0,Good
+S0307,67.6,52.5,84.7,75.8,53.1,Mathematics,0,Good
+S0308,77.9,50.7,74.6,71.8,72.1,Engineering,0,Good
+S0309,83.0,79.5,69.6,60.8,93.2,Arts,0,Good
+S0310,61.2,57.1,54.1,69.0,85.2,Arts,0,Average
+S0311,90.8,87.8,74.7,67.3,88.9,Mathematics,0,Excellent
+S0312,47.2,55.7,53.8,41.6,57.3,Business,0,Average
+S0313,58.1,43.9,43.1,63.4,50.2,Computer Science,0,Average
+S0314,54.0,61.7,63.6,65.2,63.1,Mathematics,0,Average
+S0315,62.3,55.6,64.5,51.9,65.8,Computer Science,0,Average
+S0316,74.0,71.6,71.6,55.0,81.4,Computer Science,0,Good
+S0317,53.0,45.6,56.2,56.7,39.6,Business,0,Average
+S0318,78.2,61.9,67.1,64.1,87.9,Computer Science,0,Good
+S0319,77.5,53.1,73.2,64.0,62.6,Computer Science,0,Good
+S0320,63.8,60.8,64.2,60.8,58.6,Business,0,Average
+S0321,52.5,43.0,47.9,69.4,49.8,Computer Science,0,Average
+S0322,59.7,40.8,50.1,62.9,40.2,Computer Science,0,Average
+S0323,80.6,57.5,69.4,62.0,77.3,Computer Science,0,Good
+S0324,50.8,55.1,66.0,69.3,66.1,Mathematics,0,Average
+S0325,58.8,62.4,42.9,34.1,45.7,Mathematics,0,Average
+S0326,59.8,37.6,41.2,50.4,45.6,Mathematics,0,At Risk
+S0327,57.0,51.3,55.9,74.6,60.0,Business,0,Average
+S0328,88.8,83.9,73.8,59.3,90.0,Arts,0,Excellent
+S0329,59.1,51.5,57.2,43.4,61.1,Computer Science,0,Average
+S0330,52.5,46.3,53.9,44.1,42.5,Computer Science,0,At Risk
+S0331,58.9,43.7,53.1,38.5,61.3,Business,1,Average
+S0332,60.6,56.0,71.3,51.2,60.9,Computer Science,0,Average
+S0333,40.0,32.5,28.0,34.5,30.0,Mathematics,0,At Risk
+S0334,47.7,57.9,40.3,28.3,64.2,Arts,1,At Risk
+S0335,76.7,67.1,65.0,57.7,61.5,Engineering,0,Good
+S0336,59.3,78.7,39.1,55.4,75.4,Computer Science,0,Average
+S0337,66.5,71.7,58.1,43.2,92.7,Mathematics,0,Good
+S0338,49.4,60.2,66.3,76.4,81.9,Engineering,0,Average
+S0339,54.1,52.2,52.7,57.5,61.0,Arts,0,Average
+S0340,41.0,38.8,46.9,60.8,48.4,Engineering,0,At Risk
+S0341,96.4,81.6,65.3,49.7,100.0,Mathematics,0,Good
+S0342,73.0,55.9,57.7,64.1,65.9,Engineering,0,Average
+S0343,55.7,54.1,49.7,36.7,65.2,Business,1,Average
+S0344,84.8,71.8,67.7,69.5,64.6,Engineering,0,Good
+S0345,73.8,51.3,77.1,65.6,68.0,Computer Science,0,Good
+S0346,58.2,61.7,60.5,61.9,62.8,Computer Science,0,Average
+S0347,40.0,55.1,32.9,27.3,56.4,Business,0,At Risk
+S0348,81.3,56.2,71.2,49.9,56.8,Mathematics,0,Average
+S0349,48.4,33.3,54.0,59.2,64.5,Computer Science,0,At Risk
+S0350,42.0,40.5,56.6,41.9,56.8,Arts,0,At Risk
+S0351,67.4,62.3,76.2,68.7,54.3,Computer Science,0,Good
+S0352,87.7,62.8,62.5,39.8,66.6,Computer Science,1,Good
+S0353,74.4,48.8,56.5,63.5,61.2,Mathematics,0,Average
+S0354,79.4,64.8,55.1,37.7,87.6,Engineering,1,Average
+S0355,50.9,44.0,48.2,55.7,30.0,Computer Science,0,At Risk
+S0356,79.2,70.7,72.2,68.6,81.4,Business,0,Good
+S0357,79.4,65.4,77.5,55.4,83.7,Engineering,0,Good
+S0358,49.8,35.6,49.1,56.5,33.9,Arts,0,At Risk
+S0359,61.0,49.1,53.4,54.8,59.9,Mathematics,0,Average
+S0360,59.1,44.1,57.0,47.0,59.4,Arts,0,Average
+S0361,44.4,53.8,38.3,32.0,43.9,Engineering,0,At Risk
+S0362,53.9,44.9,73.2,38.1,53.3,Engineering,0,Average
+S0363,40.0,51.1,27.9,43.2,48.3,Engineering,0,At Risk
+S0364,74.7,81.1,66.6,39.5,91.3,Arts,1,Good
+S0365,59.6,67.5,76.0,64.2,79.0,Engineering,0,Good
+S0366,61.0,58.5,56.7,50.2,84.1,Arts,0,Average
+S0367,69.7,64.5,59.9,63.1,75.8,Engineering,0,Good
+S0368,68.0,49.4,57.2,50.0,48.1,Business,0,Average
+S0369,67.7,45.9,58.8,50.5,57.1,Engineering,0,Average
+S0370,50.5,56.7,64.0,65.8,72.3,Arts,0,Average
+S0371,43.4,32.3,23.9,41.0,46.7,Computer Science,0,At Risk
+S0372,77.3,73.0,81.7,69.6,75.7,Engineering,0,Good
+S0373,50.9,46.1,36.3,48.8,61.4,Computer Science,0,At Risk
+S0374,57.4,52.6,51.8,32.5,59.4,Business,0,Average
+S0375,73.3,64.5,59.7,63.9,75.7,Mathematics,0,Good
+S0376,56.1,53.4,59.6,62.1,71.7,Business,0,Average
+S0377,60.8,56.8,40.5,33.1,59.6,Engineering,0,Average
+S0378,57.9,56.5,59.3,51.7,82.4,Computer Science,0,Average
+S0379,48.4,51.0,69.3,59.2,48.8,Computer Science,0,Average
+S0380,70.3,50.0,48.6,47.7,74.2,Arts,0,Average
+S0381,51.0,55.9,52.5,55.3,73.9,Computer Science,0,Average
+S0382,64.6,69.0,52.1,68.2,60.4,Arts,0,Average
+S0383,64.7,49.4,63.1,69.5,69.9,Mathematics,0,Average
+S0384,58.6,40.7,55.4,36.9,46.2,Engineering,0,At Risk
+S0385,71.7,67.2,56.6,60.8,78.9,Arts,0,Good
+S0386,74.8,58.8,69.7,75.8,62.2,Mathematics,0,Good
+S0387,59.8,53.6,73.9,66.6,57.2,Computer Science,0,Average
+S0388,66.1,66.0,57.7,67.0,80.7,Computer Science,0,Good
+S0389,58.4,54.4,62.3,80.3,54.4,Mathematics,0,Average
+S0390,57.4,53.6,41.5,58.0,43.9,Computer Science,0,Average
+S0391,51.3,45.3,41.2,48.6,41.7,Mathematics,0,At Risk
+S0392,67.5,57.9,65.2,70.1,74.1,Arts,0,Good
+S0393,45.9,47.5,62.4,57.9,45.8,Arts,0,Average
+S0394,69.0,82.4,65.0,57.8,91.3,Mathematics,0,Good
+S0395,40.0,34.4,40.9,41.2,33.8,Arts,0,At Risk
+S0396,92.7,66.2,75.6,81.6,90.4,Arts,0,Good
+S0397,51.6,61.6,38.5,34.4,68.2,Arts,1,Average
+S0398,54.8,50.9,59.0,72.9,63.5,Business,0,Average
+S0399,51.2,30.7,59.6,60.8,56.8,Engineering,0,At Risk
+S0400,74.4,67.5,60.1,38.3,71.0,Computer Science,1,Average
+S0401,59.3,49.3,50.9,54.8,64.4,Business,0,Average
+S0402,83.3,66.9,72.6,36.1,81.5,Arts,1,Good
+S0403,56.6,56.3,49.6,57.3,66.7,Mathematics,0,Average
+S0404,66.4,58.4,59.2,65.2,67.3,Arts,0,Average
+S0405,51.4,54.9,71.8,53.8,59.5,Engineering,0,Average
+S0406,83.5,57.2,67.6,60.3,64.1,Arts,0,Good
+S0407,52.9,57.8,48.2,72.5,69.6,Mathematics,0,Average
+S0408,52.8,39.5,45.2,41.5,39.3,Engineering,0,At Risk
+S0409,58.7,51.4,62.7,43.6,44.8,Arts,0,Average
+S0410,72.2,67.0,61.5,73.5,76.1,Engineering,0,Good
+S0411,61.9,48.1,50.7,73.9,67.6,Computer Science,0,Average
+S0412,59.8,61.5,69.1,59.6,62.2,Computer Science,0,Average
+S0413,63.1,50.7,72.0,73.2,65.3,Arts,0,Average
+S0414,63.6,63.6,52.2,67.2,70.2,Engineering,0,Average
+S0415,68.1,56.1,42.2,37.2,56.9,Mathematics,0,Average
+S0416,78.8,69.7,77.3,57.8,53.3,Arts,0,Good
+S0417,58.4,52.9,48.2,63.9,67.9,Computer Science,0,Average
+S0418,41.5,39.8,52.8,71.6,50.3,Computer Science,0,At Risk
+S0419,64.7,57.7,39.1,51.3,71.1,Arts,0,Average
+S0420,75.5,46.0,74.2,51.6,39.5,Engineering,0,Average
+S0421,62.2,67.2,45.2,71.4,80.4,Computer Science,0,Average
+S0422,82.4,50.6,76.8,57.0,72.1,Engineering,0,Good
+S0423,81.2,53.5,68.9,55.4,68.8,Computer Science,0,Good
+S0424,64.3,52.7,49.1,53.6,79.7,Computer Science,0,Average
+S0425,80.7,77.8,64.3,75.8,90.0,Business,0,Good
+S0426,86.4,81.7,78.7,74.6,80.2,Computer Science,0,Excellent
+S0427,44.9,37.6,48.0,54.0,37.4,Mathematics,0,At Risk
+S0428,50.9,42.2,56.4,58.7,45.8,Arts,0,Average
+S0429,52.0,48.4,71.0,61.0,55.6,Arts,0,Average
+S0430,52.5,61.2,35.9,49.6,65.4,Engineering,0,Average
+S0431,59.9,49.7,72.1,30.7,72.8,Computer Science,1,Average
+S0432,44.8,47.0,47.9,45.4,54.1,Mathematics,0,At Risk
+S0433,64.2,64.2,49.6,52.7,67.8,Engineering,0,Average
+S0434,49.1,50.2,36.2,29.3,53.7,Business,0,At Risk
+S0435,60.3,51.9,54.3,56.8,55.8,Engineering,0,Average
+S0436,40.0,47.6,53.2,49.2,43.9,Engineering,0,At Risk
+S0437,58.9,26.5,54.1,73.1,51.2,Computer Science,0,At Risk
+S0438,60.7,51.5,71.5,79.6,44.7,Business,0,Average
+S0439,40.0,36.9,29.5,34.2,50.4,Engineering,0,At Risk
+S0440,74.1,49.9,64.4,55.4,80.8,Mathematics,0,Average
+S0441,67.7,54.7,48.1,48.1,50.8,Mathematics,0,Average
+S0442,67.9,81.4,64.4,51.8,100.0,Arts,0,Good
+S0443,82.9,62.7,78.6,66.7,72.4,Business,0,Good
+S0444,68.1,65.2,56.6,44.2,67.8,Business,0,Average
+S0445,49.0,58.5,23.4,23.1,52.1,Arts,0,At Risk
+S0446,67.2,70.9,62.3,63.6,75.5,Engineering,0,Good
+S0447,63.8,64.8,62.6,63.9,56.4,Business,0,Average
+S0448,64.2,61.9,62.5,46.6,66.8,Mathematics,0,Average
+S0449,85.4,76.2,83.6,77.5,100.0,Mathematics,0,Excellent
+S0450,52.6,38.4,40.8,37.8,63.6,Computer Science,1,At Risk
+S0451,72.8,62.8,70.5,63.3,82.2,Business,0,Good
+S0452,43.1,38.0,57.8,63.7,54.5,Engineering,0,At Risk
+S0453,61.1,71.5,38.9,44.0,64.5,Arts,0,Average
+S0454,66.7,65.2,63.2,62.1,91.6,Arts,0,Good
+S0455,50.4,48.4,45.2,41.4,55.6,Engineering,0,At Risk
+S0456,88.5,77.8,72.3,58.8,92.2,Computer Science,0,Good
+S0457,78.7,64.2,70.7,57.9,75.6,Arts,0,Good
+S0458,64.4,65.5,53.8,42.9,56.6,Business,0,Average
+S0459,56.3,51.7,47.0,46.4,74.5,Computer Science,0,Average
+S0460,66.6,63.4,60.3,36.6,79.6,Business,1,Average
+S0461,79.3,57.6,56.7,47.5,74.3,Mathematics,0,Average
+S0462,52.1,31.7,40.4,41.8,41.4,Computer Science,0,At Risk
+S0463,80.2,50.8,74.9,59.4,54.1,Arts,0,Average
+S0464,64.6,53.6,47.3,45.7,61.3,Computer Science,0,Average
+S0465,63.9,51.3,65.0,56.7,63.9,Computer Science,0,Average
+S0466,64.1,53.4,63.1,62.3,74.3,Computer Science,0,Average
+S0467,65.2,45.4,41.8,56.4,67.7,Computer Science,0,Average
+S0468,51.0,42.6,43.8,39.1,45.0,Business,0,At Risk
+S0469,72.4,48.0,75.4,48.3,70.7,Mathematics,0,Average
+S0470,76.6,68.7,56.2,40.6,74.2,Engineering,0,Average
+S0471,58.8,57.7,50.7,44.5,73.4,Computer Science,0,Average
+S0472,57.3,48.0,59.0,50.3,81.2,Arts,0,Average
+S0473,50.4,53.6,58.1,44.8,77.5,Computer Science,0,Average
+S0474,71.0,54.0,60.1,39.5,71.9,Arts,1,Average
+S0475,50.9,53.4,44.6,41.8,63.9,Business,0,Average
+S0476,40.0,48.8,58.2,56.3,40.1,Arts,0,At Risk
+S0477,69.6,44.5,79.2,71.7,71.4,Engineering,0,Average
+S0478,89.0,64.9,83.2,59.9,68.1,Mathematics,0,Good
+S0479,64.5,55.7,59.5,49.8,69.1,Arts,0,Average
+S0480,61.3,52.1,48.7,38.2,45.8,Arts,0,Average
+S0481,55.2,47.8,44.8,47.0,48.8,Mathematics,0,At Risk
+S0482,69.4,57.1,66.9,48.3,80.8,Engineering,0,Average
+S0483,71.4,54.6,67.0,65.4,64.4,Computer Science,0,Average
+S0484,64.7,53.1,72.8,40.0,75.2,Arts,1,Average
+S0485,65.4,64.4,65.7,53.6,65.4,Mathematics,0,Average
+S0486,65.9,56.1,44.5,50.9,65.4,Business,0,Average
+S0487,62.9,75.7,68.2,61.3,79.1,Mathematics,0,Good
+S0488,68.6,53.0,51.1,82.9,57.3,Business,0,Average
+S0489,61.5,49.4,53.0,55.7,66.4,Engineering,0,Average
+S0490,51.5,36.6,53.4,39.6,58.1,Computer Science,0,At Risk
+S0491,64.6,38.3,78.7,63.2,58.5,Mathematics,0,Average
+S0492,51.2,36.8,81.8,44.6,60.4,Arts,0,Average
+S0493,64.4,58.8,64.7,56.4,68.3,Engineering,0,Average
+S0494,58.8,54.8,53.5,41.7,57.8,Mathematics,0,Average
+S0495,82.8,55.7,75.0,73.5,83.8,Arts,0,Good
+S0496,60.5,56.0,65.2,51.0,51.6,Mathematics,0,Average
+S0497,60.8,49.3,53.3,50.2,62.2,Business,0,Average
+S0498,67.4,54.7,78.4,56.6,58.4,Mathematics,0,Average
+S0499,87.3,83.8,74.7,83.2,86.7,Mathematics,0,Excellent
+S0500,69.6,65.2,66.7,54.5,67.9,Mathematics,0,Good
